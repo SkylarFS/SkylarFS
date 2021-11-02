@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**SkylarFS/SkylarFS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository is dedicated to my HiddenDeveloper application. 
 
-Here are some ideas to get you started:
+Here is my project index.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Python:**
+- 🌱 **JavaScript:**
+- 👯 **C Plus Plus:**
+- 🤔 **CSharp:**
+- 💬 **C:**
+- 📫 **HTML/CSS**
+- 😄 **PHP:**
+- ⚡ **SQL:**
+
+**NOTE:** ALL OF THE REPOSITORY IS A LOCAL PROJECT AND WAS EXPORTED ONLY FOR THIS APPLICATION.
