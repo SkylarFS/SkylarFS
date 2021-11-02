@@ -11,6 +11,7 @@ Here is my project index.
 - 💬 **C:**
 - 📫 **HTML/CSS**
 - 😄 **PHP:**
+- 🌯 **Rust:** [Rustaurlin](https://github.com/SkylarFS/Rustaurlin)
 - ⚡ **SQL:** [SQL.csharp](https://github.com/SkylarFS/SQL.csharp)
 
 **NOTE:** ALL OF THE REPOSITORY IS A LOCAL PROJECT AND WAS EXPORTED ONLY FOR THIS APPLICATION.
