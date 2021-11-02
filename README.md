@@ -4,7 +4,7 @@ This repository is dedicated to my HiddenDeveloper application.
 
 Here is my project index.
 
-- 🔭 **Python:** [Here](https://github.com/SkylarFS/lodash)
+- 🔭 **Python:** [Lodash.py](https://github.com/SkylarFS/lodash)
 - 🌱 **JavaScript:**
 - 👯 **C Plus Plus:**
 - 🤔 **CSharp:**
