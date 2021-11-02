@@ -6,7 +6,7 @@ Here is my project index.
 
 - 🔭 **Python:** [Lodash.py](https://github.com/SkylarFS/lodash)
 - 🌱 **JavaScript:**
-- 👯 **C Plus Plus:**
+- 👯 **C Plus Plus:** [FFmpeg.cpp](https://github.com/SkylarFS/FFmpeg.cpp)
 - 🤔 **CSharp:**
 - 💬 **C:**
 - 📫 **HTML/CSS**
